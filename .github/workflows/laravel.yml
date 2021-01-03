@@ -2,9 +2,9 @@ name: Laravel
 
 on:
   push:
-    branches: [ master ]
+    branches: [ vuexy-vuejs-admin/full-version]
   pull_request:
-    branches: [ master ]
+    branches: [  vuexy-vuejs-admin/full-version]
 
 jobs:
   laravel-tests:
